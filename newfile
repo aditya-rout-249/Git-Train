@@ -1,2 +1,6 @@
 checking
+<<<<<<< HEAD
 checknext
+=======
+notcheck
+>>>>>>> refs/remotes/origin/main
